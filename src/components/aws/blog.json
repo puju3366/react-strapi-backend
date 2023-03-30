@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_aws_blogs",
+  "info": {
+    "displayName": "blog"
+  },
+  "options": {},
+  "attributes": {
+    "aws": {
+      "type": "string"
+    }
+  }
+}
